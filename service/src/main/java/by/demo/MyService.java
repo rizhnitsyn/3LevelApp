@@ -6,6 +6,7 @@ public class MyService {
         System.out.println("begin new feature");
         System.out.println("third feature");
         System.out.println("third feature1");
+        System.out.println("four feature1");
         return MyDatabase.getInfoFromDbLayer() + " service layer. Cherry-pick/ Second test. Second Feature!";
 
     }
