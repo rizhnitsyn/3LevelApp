@@ -8,7 +8,7 @@ public class MyService {
         System.out.println("third feature1");
         System.out.println("four feature1feature1");
         System.out.println("four feature1feature1sdsd");
-        System.out.println("four lastsdsdsdfdf");
+        System.out.println("four lastsdsdfddsdfdf");
         return MyDatabase.getInfoFromDbLayer() + " service layer. Cherry-pick/ Second test. Second Feature!qweqweqwe";
 
     }
