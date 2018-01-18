@@ -3,7 +3,7 @@ package by.demo;
 public class MyService {
 
     public static String getInfoFromServiceLayer() {
-        System.out.println("begin new featureasdasd123");
+        System.out.println("begin new featureasdasd123123");
         System.out.println("third fesdadaturesdssdfdf");
         System.out.println("third featudfdfre1");
         System.out.println("four feature1featursdsde1sdfdf");
