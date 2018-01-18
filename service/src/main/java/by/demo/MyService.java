@@ -5,7 +5,7 @@ public class MyService {
     public static String getInfoFromServiceLayer() {
         System.out.println("begin new featureasdasd123123");
         System.out.println("third fesdadaturesdssdfdf");
-        System.out.println("third featudfdfre1");
+        System.out.println("third featudfdfre1123");
         System.out.println("four feature1featursdsde1sdfdf");
         System.out.println("four feature1feafdfdsdture1sdsd");
         System.out.println("four lastsdsdsdfdfsdfdf");
